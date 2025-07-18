@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning: **DSA in Java**, **Java Backend (Spring Boot)** 
 - 💼 Open to job opportunities and internships (MERN, React, Frontend)
 - 🎯 Goal: Become a confident full-stack developer ready for product-based companies
+- 🤓 Fun Fact: I treat my code like relationships – commit often, push when needed, and always resolve conflicts.
+
 
 
 ---
@@ -31,6 +33,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-00979D?logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
