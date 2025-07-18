@@ -9,10 +9,8 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently learning: **DSA in Java**, **Java Backend (Spring Boot)** & **Interview Preparation**
+- 🌱 I’m currently learning: **DSA in Java**, **Java Backend (Spring Boot)** 
 - 💼 Open to job opportunities and internships (MERN, React, Frontend)
-- 🛠️ I recently built:  
-  `Meesho Dating`, `MERN Portfolio`, `Musiccyy`, `GirlyyGlam`, `To-Do List`
 - 🎯 Goal: Become a confident full-stack developer ready for product-based companies
 
 
@@ -36,17 +34,7 @@
 
 ---
 
-### 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| [MERN Portfolio](https://mern-portfolio-self.vercel.app/) | My personal portfolio website built with React |
-| [Meesho Dating](https://meesho-dating.vercel.app/) | A funny parody dating site like Meesho 😂 |
-| [Musiccyy](https://musiccyy.vercel.app/) | A React-based music player |
-| [GirlyyGlam](https://girlyyglam.vercel.app/) | HTML/CSS only glam-themed product page |
-| [Simple To-Do List](https://github.com/Kaviya-S-211/Simple-To-Do-List) | A basic task manager with local storage |
-
----
 
 ### 📈 GitHub Stats
 
